@@ -11,3 +11,4 @@ This repository contains Python practice tasks. Each task is organized in its ow
 - [University Staff & Student Management System](./university_management_system/README.md)
 - [Employee-Manager Introspection System](./introspection_employee_manager/README.md)
 - [Academic People Hierarchy System](./academic_people_hierarchy/README.md)
+- [Vehicle Registration System](./vehicle_registration_system/README.md)
