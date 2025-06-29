@@ -12,3 +12,4 @@ This repository contains Python practice tasks. Each task is organized in its ow
 - [Employee-Manager Introspection System](./introspection_employee_manager/README.md)
 - [Academic People Hierarchy System](./academic_people_hierarchy/README.md)
 - [Vehicle Registration System](./vehicle_registration_system/README.md)
+- [Library System using Magic Methods](./library_system_with_dunder_methods/README.md)
