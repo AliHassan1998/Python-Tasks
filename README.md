@@ -13,3 +13,4 @@ This repository contains Python practice tasks. Each task is organized in its ow
 - [Academic People Hierarchy System](./academic_people_hierarchy/README.md)
 - [Vehicle Registration System](./vehicle_registration_system/README.md)
 - [Library System using Magic Methods](./library_system_with_dunder_methods/README.md)
+- [Online Payment System with Method Overriding](./online_payment_system/README.md)
