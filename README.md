@@ -15,3 +15,4 @@ This repository contains Python practice tasks. Each task is organized in its ow
 - [Library System using Magic Methods](./library_system_with_dunder_methods/README.md)
 - [Online Payment System with Method Overriding](./online_payment_system/README.md)
 - [Student Course Management System](./student_course_management_system/README.md)
+- [Employee Management System with Method Overriding](./employee_management_system/README.md)
