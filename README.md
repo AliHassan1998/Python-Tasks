@@ -16,3 +16,4 @@ This repository contains Python practice tasks. Each task is organized in its ow
 - [Online Payment System with Method Overriding](./online_payment_system/README.md)
 - [Student Course Management System](./student_course_management_system/README.md)
 - [Employee Management System with Method Overriding](./employee_management_system/README.md)
+- [Library System with Method Overriding and Dunder Methods](./library_system_with_overriding/README.md)
