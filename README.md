@@ -17,3 +17,4 @@ This repository contains Python practice tasks. Each task is organized in its ow
 - [Student Course Management System](./student_course_management_system/README.md)
 - [Employee Management System with Method Overriding](./employee_management_system/README.md)
 - [Library System with Method Overriding and Dunder Methods](./library_system_with_overriding/README.md)
+- [Clear Folder Clutter with Python](./clear_folder_clutter/README.md)
