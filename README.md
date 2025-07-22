@@ -20,3 +20,4 @@ This repository contains Python practice tasks. Each task is organized in its ow
 - [Clear Folder Clutter with Python](./clear_folder_clutter/README.md)
 - [Shopping Cart System with Operator Overloading](./shopping_cart_operator_overloading/README.md)
 - [Employee Payroll System](https://github.com/AliHassan1998/Python-Tasks/tree/main/employee_payroll_system)
+- [Banking System with Magic Methods](https://github.com/AliHassan1998/Python-Tasks/tree/main/banking_system_magic_methods)
