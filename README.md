@@ -22,3 +22,5 @@ This repository contains Python practice tasks. Each task is organized in its ow
 - [Employee Payroll System](https://github.com/AliHassan1998/Python-Tasks/tree/main/employee_payroll_system)
 - [Banking System with Magic Methods](https://github.com/AliHassan1998/Python-Tasks/tree/main/banking_system_magic_methods)
 - [Library Management System](https://github.com/AliHassan1998/Python-Tasks/tree/main/library_management_system)
+- [Product Inventory System](https://github.com/AliHassan1998/Python-Tasks/tree/main/product_inventory_system)
+
