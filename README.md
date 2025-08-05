@@ -1,5 +1,3 @@
-
-```markdown
 # Python Tasks
 
 This repository contains Python practice tasks. Each task is organized in its own folder with a script and README.
