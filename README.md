@@ -23,4 +23,5 @@ This repository contains Python practice tasks. Each task is organized in its ow
 - [Product Inventory System](https://github.com/AliHassan1998/Python-Tasks/tree/main/product_inventory_system)
 - [Employee Management System Using Single Inheritance](https://github.com/AliHassan1998/Python-Tasks/tree/main/employee_management_system_using_single_inheritance)
 - [Bank Account System](https://github.com/AliHassan1998/Python-Tasks/tree/main/bank_account_system)
+- [University System](https://github.com/AliHassan1998/Python-Tasks/tree/main/university_system)
 
