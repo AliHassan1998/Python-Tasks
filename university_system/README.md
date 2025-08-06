@@ -18,7 +18,7 @@ This project simulates a university system where `Student` inherits from the bas
 - Class Tracking with `total_` and `all_` class variables
 
 ## 🧪 Example
-
+```python
 student1 = Student("Ali", 20, "EME101", 3.5)
 student1("Physics")
 student1.display_courses()
