@@ -20,7 +20,7 @@ This project demonstrates a simple bank account system in Python using **OOP** c
 account1 = BankAccount("Ali", 12000.0, "Saving")
 account2 = BankAccount("Hassan", 14000.0, "Current")
 account3 = account1 + account2  # Joint account
-
+```
 ## 📂 Outputs & Testing
 
 You can run the file to:
