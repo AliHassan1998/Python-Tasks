@@ -29,7 +29,7 @@ pp = PerishableProduct("PP003", "Milk", 20.0, 150, "2025-08-14")
 
 print(pp.days_until_expiry("2025-08-12"))
 pp.reduce_price_if_near_expiry("2025-08-12", days_threshold=3, reduction_percentage=30)
-
+```python
 ## Run locally
 # run the script
 python perishable_product_system/perishable_product_system.py
