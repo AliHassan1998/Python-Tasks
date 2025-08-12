@@ -25,5 +25,6 @@ This repository contains Python practice tasks. Each task is organized in its ow
 - [Bank Account System](https://github.com/AliHassan1998/Python-Tasks/tree/main/bank_account_system)
 - [University System](https://github.com/AliHassan1998/Python-Tasks/tree/main/university_system)
 - [Fraction Class (operator overloading)](./fraction_class/README.md)
+- [Perishable Product System](https://github.com/AliHassan1998/Python-Tasks/tree/main/perishable_product_system)
 
 
