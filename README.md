@@ -27,5 +27,6 @@ This repository contains Python practice tasks. Each task is organized in its ow
 - [Fraction Class (operator overloading)](./fraction_class/README.md)
 - [Perishable Product System](https://github.com/AliHassan1998/Python-Tasks/tree/main/perishable_product_system)
 - [Smart Device Inspector](https://github.com/AliHassan1998/Python-Tasks/tree/main/smart_device_inspector)
+- [Online Course System](https://github.com/AliHassan1998/Python-Tasks/tree/main/online_course_system)
 
 
